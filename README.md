@@ -1,2 +1,4 @@
-# mustbestar-mustbestar.github.io
+# mustbestar.github.io
 POSTECH QCQN
+
+Hello World! Welcome to QCQN
