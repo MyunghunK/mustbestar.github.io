@@ -5,3 +5,4 @@ analytics:
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
+mmistakes/minimal-mistakes
